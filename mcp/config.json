@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "wireless-debugger": {
+      "command": "python",
+      "args": ["D:/esp/wireless-serial-debugger/mcp/mcp_server.py"]
+    }
+  }
+}
