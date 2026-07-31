@@ -1,0 +1,4 @@
+##ESP-IDF v6.x managed components for the wireless-serial-debugger main component.
+dependencies:
+  espressif/cjson:
+    version: "~1.7.15"
