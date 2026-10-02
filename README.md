@@ -2,6 +2,12 @@
 
 基于 ESP32-S3 的多功能无线硬件调试器，支持串口、SPI、I2C、PWM、SWD 等多种协议，并集成 AI 调试能力。
 
+## 项目展示
+
+![AI 远程调试器项目展示](docs/images/project-hardware.webp)
+
+[硬件项目与图片来源](https://oshwhub.com/course-examples/project_ddnrazxm)
+
 ## ✨ 功能特点
 
 ### 📡 多协议调试
