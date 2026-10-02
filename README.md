@@ -1,3 +1,5 @@
+[简体中文](README.md) | [English](README_en.md)
+
 # 🔧 无线串口调试器 (Wireless Serial Debugger)
 
 基于 ESP32-S3 的多功能无线硬件调试器，支持串口、SPI、I2C、PWM、SWD 等多种协议，并集成 AI 调试能力。
